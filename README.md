@@ -1,5 +1,7 @@
-#### Descargar de git con la siguiente link: 
-git clone 
+#### Descargar de GITHUB con la siguiente link: 
+https://github.com/flaviovidalhuax/TestSprintboot
+- clonar el proyecto 
+- ejecutar
 
 1.- ¿Qué estrategia utilizaría para manejar errores en la capa de
 controladores REST?
